@@ -604,6 +604,10 @@
   }
 
   .u-section-3 .u-layout-cell-2 {
-    min-height: 64px;
+    min-height: 108px;
+  }
+
+  .u-section-3 .u-social-icons-1 {
+    margin-left: auto;
   }
 }
