@@ -54,13 +54,12 @@
 }
 
 .u-section-1 .u-btn-3 {
+  letter-spacing: 1px;
   border-style: solid;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 1px;
-  background-image: none;
-  margin: -46px 20px 0 auto;
-  padding: 8px 30px;
+  margin: -46px 0 0 auto;
+  padding: 8px 14px;
 }
 
 @media (max-width: 1199px) {
@@ -79,10 +78,6 @@
 
   .u-section-1 .u-layout-cell-2 {
     min-height: 486px;
-  }
-
-  .u-section-1 .u-btn-3 {
-    margin-right: 0;
   }
 }
 
